@@ -1,4 +1,4 @@
-module libradius
+module github.com/Kupuelllka/libradius
 
 go 1.19
 
